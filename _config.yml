@@ -1,0 +1,233 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Jisong Kim
+title: Autonomous Driving Researcher (PhD Candidate)
+email: jskim@spa.hanyang.ac.kr
+website: www.github.com/jisongkim
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+# github_username:  sproogen
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: jisong-kim-4159a32b2
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://spa.snu.ac.kr/publications
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/Jisong-Kim.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi! I'm Jisong Kim, a dedicated Ph.D. student in Electrical Engineering at Hanyang University, Seoul, working under the guidance of Prof. Jun Won Choi. 
+  My research focuses on deep learning-based perception, specifically 3D object detection and tracking using cameras, radar, and LiDAR. 
+  I'm proud to have had my work published in prestigious conferences like ICRA, CVPR, and ECCV.
+  During my academic journey, I've worked on exciting projects, such as developing AI models for smart home services, optimizing object detection models, and enhancing perception technology for urban patrol robots. 
+  I've also had the privilege of collaborating with renowned companies like Hyundai and HL Klemove on projects focused on developing algorithms for autonomous driving. 
+  My background in automotive engineering and skills in deep learning tools like PyTorch and TensorFlow have been invaluable in tackling these challenges and contributing to the advancement of self-driving technology.
+
+  I am most skilled in: <mark>Autonomous Driving</mark>, <mark>Knowledge Distillation</mark>, <mark>Radar-based 3D Object Detection</mark>, and <mark>Machine Learning</mark>
+
+content:
+  - title: Overview
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      <div style="font-size: 30px;">
+      Research interest areas:
+      <ul style="font-size: 20px;">
+        <li>Deep Learning-based Perception</li>
+        <li>Camera, radar and LiDAR-based 3D object detection and tracking</li>
+        <li>Radar based point cloud generation</li>
+        <li>Optimizing object detection through knowledge distillation</li>
+        <li>Analyzing defects through image and video classification</li>
+        <li>Video-based human action recognition</li>
+      </ul>
+      </div>
+
+
+  - title: Education # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      ## **Ph.D. in Electrical Engineering (Advisor: Prof. Jun Won Choi)**
+      *Hanyang University, Seoul, South Korea*
+
+      *Mar 2022 - Present*
+
+      <br>
+      ## **M.S. in Electrical Engineering (Advisor: Prof. Jun Won Choi)**
+      *Hanyang University, Seoul, South Korea*
+      
+      *Mar 2020 - Feb 2022*
+
+      <br>
+      ## **B.S. in Automotive Engineering**
+      *Hanyang University, Seoul, South Korea*
+     
+      *Mar 2014 - Feb 2020*
+
+  - title: Publications  # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+
+      ## **<a href="https://arxiv.org/abs/2307.10249" style="color:blue;text-decoration:none;" target="_blank">RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection</a>**
+      *IEEE International Conference on Robotics and Automation (ICRA), 2024.*
+     
+      **Jisong Kim**, Minjae Seong*, Geonho Bang, Dongsuk Kum, and Jun Won Choi
+      
+      <br>
+      ## **<a href="https://arxiv.org/pdf/2403.01663" style="color:blue;text-decoration:none;" target="_blank">PillarGen: Enhancing Radar Point Cloud Density and Quality via Pillar-based Point Generation Network</a>**
+      *IEEE International Conference on Robotics and Automation (ICRA), 2024.*
+
+      **Jisong Kim**, Geonho Bang*, Kwangjin Choi, Minjae Seong, Jaechang Yoo, Eunjon Pyo and Jun Won Choi
+
+      <br>
+      ## **<a href="https://arxiv.org/pdf/2403.05061" style="color:blue;text-decoration:none;" target="_blank">RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features</a>**
+      *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+
+      *Geonho Bang*, Kwangjin Choi*, **Jisong Kim**, Dongsuk Kum and Jun Won Choi
+
+      <br>
+      ## **<a href="https://arxiv.org/abs/2004.12636" style="color:blue;text-decoration:none;" target="_blank">3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection </a>**
+      *The European Conference on Computer Vision (ECCV), 2020*
+
+      Jin Hyeok Yoo*, Yecheol Kim*, **Jisong Kim** and Jun Won Choi
+
+      (* indicates equal contributions)
+
+  - title: Projects  # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      ## **Development of 3D Object Detection Network using Camera-Radar-LiDAR Sensor Fusion**
+      *Hyundai Motor Group* (Apr 2024 - Present)
+
+      - Develop a Lightweight Radar-Camera Sensor Fusion Model
+      - Develop Knowledge Distillation Methods for Radar-Camera Sensor Fusion Model
+
+       <br>
+      ## **Development of the basic technology for AR smart glasses that can be used for prehospital advanced life support**
+      *Hanyang University Guri Hospital* (Oct 2023 - Present)
+
+      - Collect the Cardio Pulmonary Resuscitation (CPR) compression depth measurement and image using Ambu manikin and smartphone
+      - Design the deep learning based Cardio Pulmonary Resuscitation (CPR) compression depth estimation network using smartphone image
+
+       <br>
+      ## **Demonstration and commercialisation of smart homes with Matter devices and intelligent platforms based on AI**
+      *National IT Industry Promotion Agency* (Sep 2023 - Mar 2024)
+
+      - Development of AI models for smart home services based on household-specific lighting and HVAC usage data
+      - Development of hourly behaviour prediction models to provide personalised services for each user, such as homecoming service, comfort service, energy alarm service, etc
+   
+      <br>
+      ## **Radar Point Cloud Perception Network Development**
+      *HL Klemove* (Jul 2022 - Jun 2023)
+
+      - Developing a Pillar-based radar point cloud generation network for improving point density and positional accuracy
+      - Enhancing the performance of radar-based 3D object detectors by applying knowledge distillation techniques from high-quality to low-quality radar data
+
+      <br>
+      ## **Development of Distributed On-Chip Memory-Compute Integration PIM Semiconductor Technology for Edge Use**
+      *DEEPX* (Apr 2022 - Dec 2022)
+
+      - Optimizing and accelerating PointPillar models for faster 3D object detection by implementing lightweighting techniques
+      - Utilizing the TensorRT library for accelerated and optimized execution of deep learning models
+
+      <br>
+      ## **Development of Sensor Fusion-based Localization and 3D Object Detection for Urban Patrol Robots**
+      *Ministry of Science and ICT* (Apr 2021 - Jun 2022)
+
+      - Calibrating LiDAR and camera sensors for enhanced autonomous perception in urban driving Robots
+      - Develop a 3D object-centered (pedestrian, bicycle, pet, etc.) detection model for robots using LiDAR-camera sensor fusion
+
+      <br>
+      ## **Development of Perception Technology based on Vehicle Radar Point Cloud Data**
+      *HL Klemove* (Dec 2020 - Nov 2021)
+
+      - Analyzing and preprocessing nuScenes radar data for the application of LiDAR-based object detection models
+      - Develop the Bird's Eye View object detection model using radar point cloud data
+
+      <br>
+      ## **Analysis and Development of Object Detection and Pose Estimation Technology using Image Information**
+      *Korea Railroad Research Institute* (Oct 2020 - Dec 2020)
+
+      - Developed an integrated network model for 2D object detection and pose estimation, tailored for worker recognition using port CCTV data
+
+  - title: Review Experiences  # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      <ul style="font-size: 20px;">
+        <li><strong>Journal Review :</strong> IEEE TVT</li>
+      </ul>
+
+  - title: Patents  # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      ## **PILLAR BASED POINT CLOUD GENERATION METHOD AND APPARATUS THEREOF (KR - Application No.10-2024-0033128)**
+      
+      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Geonho Bang</span>
+
+      <br>
+      ## **3D OBJECT DETECTION APPARATUS AND METHOD THEREOF (KR - Application No.10-2024-0033147)**
+
+      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Geonho Bang, Kwangjin Choi</span>
+
+      <br>
+      ## **OBJECT DETECTION METHOD UTILIZING RADAR POINT CLOUD THEREOF (KR - Application No.10-2022-0015334)**
+
+      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Yunsik Shin</span>
+
+      <br>
+      ## **3D OBJECT DETECTION METHOD APPLYING SELF-ATTENTION MODULE FOR REMOVING RADAR CLUTTER THEREOF (KR - Application No.10-2022-0015333)**
+
+      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Yunsik Shin</span>
+
+  - title: Skills  # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      <ul style="font-size: 20px;">
+        <li><strong>Computer Languages :</strong> Python, C++</li>
+        <li><strong>Deep Learning Tools :</strong> Pytorch, Tensorflow</li>
+        <li><strong>Language :</strong> Korean (Native), English (Intermediate)</li>
+      </ul>
+ 
+# Footer
+footer_show_references: False
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
