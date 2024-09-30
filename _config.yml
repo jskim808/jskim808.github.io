@@ -97,22 +97,22 @@ content:
     layout: text # Type of content section (list/text)
     content: |
     
-      ## **CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection</a>**
+      ## **CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection (Update!)**
       *NeurIPS 2024*
      
       **Jisong Kim**, Minjae Seong*, and Jun Won Choi
-
-      <br>
-      ## **<a href="https://www.mdpi.com/1424-8220/24/14/4667" style="color:blue;text-decoration:none;" target="_blank">LiDAR-Based 3D Temporal Object Detection via Motion-Aware LiDAR Feature Fusion</a>**
-      *Sensors 24*
-     
-      Gyuhee Park, Junho Koh, **Jisong Kim**, Jun Moon, and Jun Won Choi
 
       <br>
       ## **<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224013870" style="color:blue;text-decoration:none;" target="_blank">JARViS: Detecting actions in video using unified actor-scene context relation modeling</a>**
       *Neurocomputing*
      
       Seok Hwan Lee*, Taein Son*, Soo Won Seo, **Jisong Kim**, and Jun Won Choi
+
+      <br>
+      ## **<a href="https://www.mdpi.com/1424-8220/24/14/4667" style="color:blue;text-decoration:none;" target="_blank">LiDAR-Based 3D Temporal Object Detection via Motion-Aware LiDAR Feature Fusion</a>**
+      *Sensors 24*
+     
+      Gyuhee Park, Junho Koh, **Jisong Kim**, Jun Moon, and Jun Won Choi
 
       <br>
       ## **<a href="https://arxiv.org/abs/2307.10249" style="color:blue;text-decoration:none;" target="_blank">RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection</a>**
