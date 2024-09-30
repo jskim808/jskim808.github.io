@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   Throughout my studies, I've developed AI models for smart home services, optimized object detection models, and enhanced perception technology for urban patrol robots. 
   I've also collaborated with companies like Hyundai and HL Klemove on autonomous driving algorithms. 
   
-  I am most skilled in: <mark>Sensor Fusion</mark>, <mark>Radar-based 3D Object Detection</mark>, <mark>Knowledge Distillation</mark>, and <mark>Deep Learning based Perception</mark>
+  I am most skilled in: <mark>Deep Learning based Perception</mark>, <mark>Sensor Fusion</mark>, and <mark>Knowledge Distillation</mark>
 
 content:
   - title: Overview
