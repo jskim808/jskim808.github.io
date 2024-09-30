@@ -140,62 +140,62 @@ content:
 
       (* indicates equal contributions)
 
-  - title: Projects  # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      ## **Development of 3D Object Detection Network using Camera-Radar-LiDAR Sensor Fusion**
-      *Hyundai Motor Group* (Apr 2024 - Present)
+  # - title: Projects  # Title for the section
+  #   layout: text # Type of content section (list/text)
+  #   content: |
+  #     ## **Development of 3D Object Detection Network using Camera-Radar-LiDAR Sensor Fusion**
+  #     *Hyundai Motor Group* (Apr 2024 - Present)
 
-      - Develop a Lightweight Radar-Camera Sensor Fusion Model
-      - Develop Knowledge Distillation Methods for Radar-Camera Sensor Fusion Model
+  #     - Develop a Lightweight Radar-Camera Sensor Fusion Model
+  #     - Develop Knowledge Distillation Methods for Radar-Camera Sensor Fusion Model
 
-       <br>
-      ## **Development of the basic technology for AR smart glasses that can be used for prehospital advanced life support**
-      *Hanyang University Guri Hospital* (Oct 2023 - Present)
+  #      <br>
+  #     ## **Development of the basic technology for AR smart glasses that can be used for prehospital advanced life support**
+  #     *Hanyang University Guri Hospital* (Oct 2023 - Present)
 
-      - Collect the Cardio Pulmonary Resuscitation (CPR) compression depth measurement and image using Ambu manikin and smartphone
-      - Design the deep learning based Cardio Pulmonary Resuscitation (CPR) compression depth estimation network using smartphone image
+  #     - Collect the Cardio Pulmonary Resuscitation (CPR) compression depth measurement and image using Ambu manikin and smartphone
+  #     - Design the deep learning based Cardio Pulmonary Resuscitation (CPR) compression depth estimation network using smartphone image
 
-       <br>
-      ## **Demonstration and commercialisation of smart homes with Matter devices and intelligent platforms based on AI**
-      *National IT Industry Promotion Agency* (Sep 2023 - Mar 2024)
+  #      <br>
+  #     ## **Demonstration and commercialisation of smart homes with Matter devices and intelligent platforms based on AI**
+  #     *National IT Industry Promotion Agency* (Sep 2023 - Mar 2024)
 
-      - Development of AI models for smart home services based on household-specific lighting and HVAC usage data
-      - Development of hourly behaviour prediction models to provide personalised services for each user, such as homecoming service, comfort service, energy alarm service, etc
+  #     - Development of AI models for smart home services based on household-specific lighting and HVAC usage data
+  #     - Development of hourly behaviour prediction models to provide personalised services for each user, such as homecoming service, comfort service, energy alarm service, etc
    
-      <br>
-      ## **Radar Point Cloud Perception Network Development**
-      *HL Klemove* (Jul 2022 - Jun 2023)
+  #     <br>
+  #     ## **Radar Point Cloud Perception Network Development**
+  #     *HL Klemove* (Jul 2022 - Jun 2023)
 
-      - Developing a Pillar-based radar point cloud generation network for improving point density and positional accuracy
-      - Enhancing the performance of radar-based 3D object detectors by applying knowledge distillation techniques from high-quality to low-quality radar data
+  #     - Developing a Pillar-based radar point cloud generation network for improving point density and positional accuracy
+  #     - Enhancing the performance of radar-based 3D object detectors by applying knowledge distillation techniques from high-quality to low-quality radar data
 
-      <br>
-      ## **Development of Distributed On-Chip Memory-Compute Integration PIM Semiconductor Technology for Edge Use**
-      *DEEPX* (Apr 2022 - Dec 2022)
+  #     <br>
+  #     ## **Development of Distributed On-Chip Memory-Compute Integration PIM Semiconductor Technology for Edge Use**
+  #     *DEEPX* (Apr 2022 - Dec 2022)
 
-      - Optimizing and accelerating PointPillar models for faster 3D object detection by implementing lightweighting techniques
-      - Utilizing the TensorRT library for accelerated and optimized execution of deep learning models
+  #     - Optimizing and accelerating PointPillar models for faster 3D object detection by implementing lightweighting techniques
+  #     - Utilizing the TensorRT library for accelerated and optimized execution of deep learning models
 
-      <br>
-      ## **Development of Sensor Fusion-based Localization and 3D Object Detection for Urban Patrol Robots**
-      *Ministry of Science and ICT* (Apr 2021 - Jun 2022)
+  #     <br>
+  #     ## **Development of Sensor Fusion-based Localization and 3D Object Detection for Urban Patrol Robots**
+  #     *Ministry of Science and ICT* (Apr 2021 - Jun 2022)
 
-      - Calibrating LiDAR and camera sensors for enhanced autonomous perception in urban driving Robots
-      - Develop a 3D object-centered (pedestrian, bicycle, pet, etc.) detection model for robots using LiDAR-camera sensor fusion
+  #     - Calibrating LiDAR and camera sensors for enhanced autonomous perception in urban driving Robots
+  #     - Develop a 3D object-centered (pedestrian, bicycle, pet, etc.) detection model for robots using LiDAR-camera sensor fusion
 
-      <br>
-      ## **Development of Perception Technology based on Vehicle Radar Point Cloud Data**
-      *HL Klemove* (Dec 2020 - Nov 2021)
+  #     <br>
+  #     ## **Development of Perception Technology based on Vehicle Radar Point Cloud Data**
+  #     *HL Klemove* (Dec 2020 - Nov 2021)
 
-      - Analyzing and preprocessing nuScenes radar data for the application of LiDAR-based object detection models
-      - Develop the Bird's Eye View object detection model using radar point cloud data
+  #     - Analyzing and preprocessing nuScenes radar data for the application of LiDAR-based object detection models
+  #     - Develop the Bird's Eye View object detection model using radar point cloud data
 
-      <br>
-      ## **Analysis and Development of Object Detection and Pose Estimation Technology using Image Information**
-      *Korea Railroad Research Institute* (Oct 2020 - Dec 2020)
+  #     <br>
+  #     ## **Analysis and Development of Object Detection and Pose Estimation Technology using Image Information**
+  #     *Korea Railroad Research Institute* (Oct 2020 - Dec 2020)
 
-      - Developed an integrated network model for 2D object detection and pose estimation, tailored for worker recognition using port CCTV data
+  #     - Developed an integrated network model for 2D object detection and pose estimation, tailored for worker recognition using port CCTV data
 
   - title: Review Experiences  # Title for the section
     layout: text # Type of content section (list/text)
@@ -204,27 +204,27 @@ content:
         <li><strong>Journal Review :</strong> IEEE Transactions on Intelligent Transportation Systems</li>
       </ul>
 
-  - title: Patents  # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      ## **OBJECT DETECTION METHOD UTILIZING RADAR POINT CLOUD THEREOF (KR - 10-2682215)**
+  # - title: Patents  # Title for the section
+  #   layout: text # Type of content section (list/text)
+  #   content: |
+  #     ## **OBJECT DETECTION METHOD UTILIZING RADAR POINT CLOUD THEREOF (KR - 10-2682215)**
 
-      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Yunsik Shin</span>
+  #     <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Yunsik Shin</span>
      
-      <br>
-      ## **3D OBJECT DETECTION APPARATUS AND METHOD THEREOF (KR - Application No.10-2024-0033147)**
+  #     <br>
+  #     ## **3D OBJECT DETECTION APPARATUS AND METHOD THEREOF (KR - Application No.10-2024-0033147)**
 
-      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Geonho Bang, Kwangjin Choi</span>
+  #     <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Geonho Bang, Kwangjin Choi</span>
 
-      <br>
-      ## **PILLAR BASED POINT CLOUD GENERATION METHOD AND APPARATUS THEREOF (KR - Application No.10-2024-0033128)**
+  #     <br>
+  #     ## **PILLAR BASED POINT CLOUD GENERATION METHOD AND APPARATUS THEREOF (KR - Application No.10-2024-0033128)**
       
-      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Geonho Bang</span>
+  #     <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Geonho Bang</span>
 
-      <br>
-      ## **3D OBJECT DETECTION METHOD APPLYING SELF-ATTENTION MODULE FOR REMOVING RADAR CLUTTER THEREOF (KR - Application No.10-2022-0015333)**
+  #     <br>
+  #     ## **3D OBJECT DETECTION METHOD APPLYING SELF-ATTENTION MODULE FOR REMOVING RADAR CLUTTER THEREOF (KR - Application No.10-2022-0015333)**
 
-      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Yunsik Shin</span>
+  #     <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Yunsik Shin</span>
 
   - title: Skills  # Title for the section
     layout: text # Type of content section (list/text)
