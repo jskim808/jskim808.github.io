@@ -34,9 +34,9 @@ additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://spa.snu.ac.kr/publications
-- title: google scholar
-  icon: fas fa-brands fa-google-scholar
-  url: https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=yD7Led0AAAAJ
+# - title: google scholar
+#   icon: <FontAwesomeIcon icon={faGoogleScholar} />
+#   url: https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=yD7Led0AAAAJ
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
