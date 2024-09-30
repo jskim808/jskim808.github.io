@@ -35,7 +35,7 @@ additional_links:
   icon: fas fa-globe
   url: https://spa.snu.ac.kr/publications
 - title: google scholar
-  icon: fas fa-google-scholar
+  icon: fa fa-google-scholar
   url: https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=yD7Led0AAAAJ
 
 # Google Analytics and Tag Manager
