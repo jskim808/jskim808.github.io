@@ -27,16 +27,16 @@ linkedin_username: jisong-kim-4159a32b2
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0009-0000-8333-5858
 
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://spa.snu.ac.kr/publications
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: google scholar
+  icon: fa-brands fa-google-scholar
+  url: https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=yD7Led0AAAAJ
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
