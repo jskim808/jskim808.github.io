@@ -48,14 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Jisong-Kim.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I'm Jisong Kim, a dedicated Ph.D. student in Electrical Engineering at Hanyang University, Seoul, working under the guidance of Prof. Jun Won Choi. 
-  My research focuses on deep learning-based perception, specifically 3D object detection and tracking using cameras, radar, and LiDAR. 
-  I'm proud to have had my work published in prestigious conferences like ICRA, CVPR, and ECCV.
-  During my academic journey, I've worked on exciting projects, such as developing AI models for smart home services, optimizing object detection models, and enhancing perception technology for urban patrol robots. 
-  I've also had the privilege of collaborating with renowned companies like Hyundai and HL Klemove on projects focused on developing algorithms for autonomous driving. 
-  My background in automotive engineering and skills in deep learning tools like PyTorch and TensorFlow have been invaluable in tackling these challenges and contributing to the advancement of self-driving technology.
-
-  I am most skilled in: <mark>Autonomous Driving</mark>, <mark>Knowledge Distillation</mark>, <mark>Radar-based 3D Object Detection</mark>, and <mark>Machine Learning</mark>
+  I'm Jisong Kim, a Ph.D. student in Electrical Engineering at Hanyang University in Seoul, under the guidance of Prof. Jun Won Choi. 
+  My research focuses on deep learning-based perception using cameras, radar, and lidar, specifically in 3D object detection and tracking, semantic occupancy prediction, and action detection. 
+  I've published my work in conferences like NeurIPS, ICRA, CVPR, and ECCV.
+  Throughout my studies, I've developed AI models for smart home services, optimized object detection models, and enhanced perception technology for urban patrol robots. 
+  I've also collaborated with companies like Hyundai and HL Klemove on autonomous driving algorithms. 
+  
+  I am most skilled in: <mark>Sensor Fusion</mark>, <mark>Radar-based 3D Object Detection</mark>, <mark>Knowledge Distillation</mark>, and <mark>Deep Learning based Perception</mark>
 
 content:
   - title: Overview
@@ -69,7 +68,7 @@ content:
         <li>Radar based point cloud generation</li>
         <li>Optimizing object detection through knowledge distillation</li>
         <li>Analyzing defects through image and video classification</li>
-        <li>Video-based human action recognition</li>
+        <li>Video-based human action detection</li>
       </ul>
       </div>
 
@@ -97,7 +96,25 @@ content:
   - title: Publications  # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+    
+      ## **<style="color:blue;text-decoration:none;" target="_blank">CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection</a>**
+      *NeurIPS 2024*
+     
+      **Jisong Kim**, Minjae Seong*, and Jun Won Choi
 
+      <br>
+      ## **<a href="https://www.mdpi.com/1424-8220/24/14/4667" style="color:blue;text-decoration:none;" target="_blank">LiDAR-Based 3D Temporal Object Detection via Motion-Aware LiDAR Feature Fusion</a>**
+      *Sensors 24*
+     
+      Gyuhee Park, Junho Koh, **Jisong Kim**, Jun Moon, and Jun Won Choi
+
+      <br>
+      ## **<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224013870" style="color:blue;text-decoration:none;" target="_blank">JARViS: Detecting actions in video using unified actor-scene context relation modeling</a>**
+      *Neurocomputing*
+     
+      Seok Hwan Lee*, Taein Son*, Soo Won Seo, **Jisong Kim**, and Jun Won Choi
+
+      <br>
       ## **<a href="https://arxiv.org/abs/2307.10249" style="color:blue;text-decoration:none;" target="_blank">RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection</a>**
       *IEEE International Conference on Robotics and Automation (ICRA), 2024.*
      
@@ -184,25 +201,25 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       <ul style="font-size: 20px;">
-        <li><strong>Journal Review :</strong> IEEE TVT</li>
+        <li><strong>Journal Review :</strong> IEEE Transactions on Intelligent Transportation Systems</li>
       </ul>
 
   - title: Patents  # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      ## **PILLAR BASED POINT CLOUD GENERATION METHOD AND APPARATUS THEREOF (KR - Application No.10-2024-0033128)**
-      
-      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Geonho Bang</span>
+      ## **OBJECT DETECTION METHOD UTILIZING RADAR POINT CLOUD THEREOF (KR - 10-2682215)**
 
+      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Yunsik Shin</span>
+     
       <br>
       ## **3D OBJECT DETECTION APPARATUS AND METHOD THEREOF (KR - Application No.10-2024-0033147)**
 
       <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Geonho Bang, Kwangjin Choi</span>
 
       <br>
-      ## **OBJECT DETECTION METHOD UTILIZING RADAR POINT CLOUD THEREOF (KR - Application No.10-2022-0015334)**
-
-      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Yunsik Shin</span>
+      ## **PILLAR BASED POINT CLOUD GENERATION METHOD AND APPARATUS THEREOF (KR - Application No.10-2024-0033128)**
+      
+      <span style="font-size: 20px;">Jun Won Choi, **Jisong Kim**, Geonho Bang</span>
 
       <br>
       ## **3D OBJECT DETECTION METHOD APPLYING SELF-ATTENTION MODULE FOR REMOVING RADAR CLUTTER THEREOF (KR - Application No.10-2022-0015333)**
